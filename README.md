@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Deployed app : <a>https://netflix-clone-c4b64.web.app/</a>
-
+<img src="https://i.imgur.com/XOHneWE.png"></img>
 ## Available Scripts
 
 In the project directory, you can run:
